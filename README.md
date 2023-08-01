@@ -1,3 +1,3 @@
-![Chi-squared Logo](./assets/logo.png)
+![Stats Trek Logo](./assets/logo.png)
 
-This repository contains codes for [Chi-squared Medium Publication](https://medium.com/chi-squared).
+This repository contains codes for [Stats Trek Medium Publication](https://statstrek.com).
